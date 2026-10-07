@@ -56,7 +56,7 @@ The migration transformed a single ~5,000-line server file into a modular applic
 
 |        Login & Authentication        |              Workflow Dashboard              |
 | :----------------------------------: | :------------------------------------------: |
-| ![Login](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/dashboard.png) |
+| ![Login](docs/screenshots/login.png) | ![Dashboard](docs/task-management-blurred.png) |
 
 |            Task Management           |            Administration            |
 | :----------------------------------: | :----------------------------------: |
